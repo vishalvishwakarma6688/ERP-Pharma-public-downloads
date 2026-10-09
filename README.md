@@ -2,6 +2,8 @@
 
 Pharma ERP is a modern 2026 Pharmacy Management System designed for Indian retail chemists, wholesale distributors, and pharmacy chains. It provides instant purchase invoice entry, FDA-compliant Schedule H/H1 drug tracking, NIC GST e-invoicing, dynamic UPI payment integration, and offline-first desktop reliability.
 
+> **Official Web Portal**: Visit [https://erp-pharma-web-app.vercel.app/](https://erp-pharma-web-app.vercel.app/) for product details, live interactive demo, and free trial registration.
+
 > Note: For security and proprietary protection, the main source code of Pharma ERP is maintained in a private repository. This public repository is strictly dedicated to hosting official desktop application releases and setup downloads.
 
 ---
@@ -33,8 +35,11 @@ Pharma ERP is a modern 2026 Pharmacy Management System designed for Indian retai
 
 ---
 
-## Software Updates & Support
+## Official Website & Support
 
 All official desktop application builds published in this repository are verified. The desktop application automatically checks for software updates and releases on startup.
 
-For technical assistance, license inquiries, or onboarding support, visit our web portal or contact customer support.
+For technical assistance, license inquiries, pricing plans, or onboarding support:
+
+- **Web Application**: [https://erp-pharma-web-app.vercel.app/](https://erp-pharma-web-app.vercel.app/)
+- **Customer Support**: Contact via official web portal
